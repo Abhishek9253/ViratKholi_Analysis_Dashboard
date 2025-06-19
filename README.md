@@ -36,7 +36,7 @@ The Power BI dashboard provides a detailed analysis of Virat Kohli’s cricket s
 ---
 
 ## Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/aa8700a2-b2cc-4531-8474-4c97e670ed04)
+![Dashboard](https://github.com/user-attachments/assets/2c71f935-93b9-4468-8097-c0f45883ea61)
 
 
 
